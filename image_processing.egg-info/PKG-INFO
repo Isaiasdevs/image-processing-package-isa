@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: Pacote para Processamento de imagens
+Home-page: https://github.com/Isaiasdevs/image-processing-package-isa
+Author: Isaias Araújo
+Author-email: araujoisaias.dev@outlook.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# DIO Image Processing Package
+
+Description.
+The package image_processing is used to:
+
+	Processing:
+	- Histogram Matching
+	- Structural Similarity
+	- Resizing Sizes
+
+	Utilities:
+	- Image Reader
+	- Image Savior
+	- Image Viewer
+	- Results Viewer
+	- Histogram Viewer-
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image_processing
+```
+
+
+
+## Author
+Isaias
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
