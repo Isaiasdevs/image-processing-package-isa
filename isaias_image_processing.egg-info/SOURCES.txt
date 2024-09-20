@@ -1,0 +1,14 @@
+README.md
+setup.py
+image_processing_isa/__init__.py
+image_processing_isa/processing/__init__.py
+image_processing_isa/processing/combination.py
+image_processing_isa/processing/transformation.py
+image_processing_isa/utils/__init__.py
+image_processing_isa/utils/io.py
+image_processing_isa/utils/plot.py
+isaias_image_processing.egg-info/PKG-INFO
+isaias_image_processing.egg-info/SOURCES.txt
+isaias_image_processing.egg-info/dependency_links.txt
+isaias_image_processing.egg-info/requires.txt
+isaias_image_processing.egg-info/top_level.txt
